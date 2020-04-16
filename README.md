@@ -6,4 +6,4 @@ en el presente repositorio, encuentra una sucursal con su cuaderno, dicha sucurs
 pues trabajará el codigo en esa rama, y ​​harán los compromisos necesarios para realizar la entrega o tarea.
 
 Una vez completado completará una solicitud de extracción, solicitando la extracción hacia la Sucursal con su cuaderno
-Rivera Magaña, Evelyn Yaneth 
+
